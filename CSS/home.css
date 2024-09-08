@@ -1,0 +1,101 @@
+.navbar{
+    margin-top: 50px;
+}
+.navul{
+    display: flex;
+    justify-content: center;
+}
+.navli{
+    list-style: none;
+    margin-left: 40px;
+    align-self: center;
+}
+.nava{
+    text-decoration: none;
+    font-family: Space Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+.navspan{
+    font-size: 30px;
+    align-self: center;
+}
+.navimg{
+    margin-left: -560px;
+}
+.navbtn{
+    width: 160px;
+    padding: 10px;
+    border-radius: 14px;
+}
+.maindiv{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.maindiv1{
+    width: 531px;
+    height: 481px;
+    gap: 35px;
+    opacity: 0px;
+    
+}
+.maindiv2{
+    width: 600.46px;
+    height: 515px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+    overflow: hidden;
+
+}
+.main1h1{
+    //styleName: h1;
+font-family: Space Grotesk;
+font-size: 60px;
+font-weight: 500;
+line-height: 76.56px;
+text-align: left;
+
+
+}
+.main1p{
+    font-family: Space Grotesk;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+
+}
+.main1btn1{
+    width: 264px;
+    height: 68px;
+    padding: 20px 35px 20px 35px;
+    gap: 10px;
+    border-radius: 14px;
+    opacity: 0px;
+    font-family: Space Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: center;
+    background: black;
+    color: white;
+}
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding-bottom: 20px;
+}
+.footerimg{
+    height: 48px;
+    width: 80px;
+    overflow: hidden;
+    padding: 10px;
+}

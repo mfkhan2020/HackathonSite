@@ -1,0 +1,90 @@
+.navbar{
+    margin-top: 50px;
+}
+.navul{
+    display: flex;
+    justify-content: center;
+}
+.navli{
+    list-style: none;
+    margin-left: 40px;
+    align-self: center;
+}
+.nava{
+    text-decoration: none;
+    font-family: Space Grotesk;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+}
+.navspan{
+    font-size: 30px;
+    align-self: center;
+}
+.navimg{
+    margin-left: -560px;
+}
+.navbtn{
+    width: 160px;
+    padding: 10px;
+    border-radius: 14px;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+.footerimg{
+    height: 48px;
+    width: 80px;
+    overflow: hidden;
+    padding: 10px;
+}
+
+
+.allcards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.linecard1{
+width: 1240px;
+height: 200px;
+padding: 41px 60px 41px 60px;
+gap: 30px;
+border-radius: 45px;
+border: 1px 0px 0px 0px;
+background: #B9FF66;
+}
+.span1{
+    font-family: Space Grotesk;
+font-size: 60px;
+font-weight: 500;
+line-height: 76.56px;
+text-align: left;
+
+}
+.span2{
+font-family: Space Grotesk;
+font-size: 30px;
+font-weight: 500;
+line-height: 38.28px;
+text-align: left;
+}
+.span3{
+    float: right;
+}
+.linecard2{
+    width: 1240px;
+    height: 70px;
+    padding: 41px 60px 41px 60px;
+    gap: 30px;
+    border-radius: 45px;
+    border: 1px 0px 0px 0px;
+    background: #F3F3F3;
+     
+}
